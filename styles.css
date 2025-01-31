@@ -13,6 +13,9 @@
 body {
   background-color: #393E46;
 }
+.tit{
+  color: #4ECCA3;
+}
 
 h1 {
   margin: 30px;
@@ -32,10 +35,4 @@ img {
   width: 80%;
 }
 
-footer {
-  margin-top: 5%;
-  color: #EEEEEE;
-  text-align: center;
-  font-family: 'Indie Flower', cursive;
 
-}
